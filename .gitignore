@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: lock file (if you don't want to track it)
+package-lock.json
+
+# Env files (if you ever use them)
+.env
+.env.local
+.env.*.local
+
+# Electron build artifacts (optional if you start building)
+dist/
+out/
